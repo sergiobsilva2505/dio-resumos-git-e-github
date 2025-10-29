@@ -10,3 +10,4 @@ Repositório para armazenar resumos sobre Git e GitHub do curso "Versionamento d
 
 | Aulas | Descrição |
 |-------|-----------|
+| Iniciando com Git| Comandos iniciais |
